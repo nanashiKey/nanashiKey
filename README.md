@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi Thanks For Visiting My Github.
+### 🔭 Here, i create some repository for learn and do some android application projects.
+mostly using kotlin and java as a programming language
+sometime i learn new other programming languages to upgrade my programming skills😄
 
 <!--
 **nanashiKey/nanashiKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
