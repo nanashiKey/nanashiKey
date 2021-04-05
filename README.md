@@ -1,7 +1,5 @@
 ## Hi Thanks For Visiting My Github.
-### 🔭 Here, i create some repository for learn and do some android application projects.
-mostly using kotlin and java as a programming language
-sometime i learn new other programming languages to upgrade my programming skills😄
+### 🌱 Here, i create some repository for learn and do some android application projects.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nanashiKey)
 
