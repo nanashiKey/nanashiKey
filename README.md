@@ -1,5 +1,5 @@
-## Hi Thanks For Visiting My Github.
-### 🌱 Here, i create some repository for learn and do some android application projects.
+## Hi Pal.
+### 🌱 Here, i create some repositories to learn and do some android application projects.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nanashiKey)
 
