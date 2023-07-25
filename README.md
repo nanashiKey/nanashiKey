@@ -1,7 +1,5 @@
-## Hi Pal.
+## Welcome :).
 ### 🌱 Here, i create some repositories to learn and do some android application projects.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=nanashiKey)
 
 <!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nanashiKey&repo=LetsTryInfix)
